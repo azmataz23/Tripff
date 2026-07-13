@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Card outline -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M24,20 L84,20 Q88,20 88,24 L88,84 Q88,88 84,88 L24,88 Q20,88 20,84 L20,24 Q20,20 24,20 Z"/>
+
+    <!-- Inner border -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M28,24 L80,24 Q84,24 84,28 L84,80 Q84,84 80,84 L28,84 Q24,84 24,80 L24,28 Q24,24 28,24 Z"/>
+
+    <!-- Top value "T" marker -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,30 L60,30 L60,36 L48,36 Z"/>
+
+    <!-- Bottom value marker -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,72 L60,72 L60,78 L48,78 Z"/>
+
+    <!-- Left value marker -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,48 L34,48 L34,60 L28,60 Z"/>
+
+    <!-- Right value marker -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,48 L80,48 L80,60 L74,60 Z"/>
+
+    <!-- Center diamond -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,42 L62,54 L54,66 L46,54 Z"/>
+
+</vector>
